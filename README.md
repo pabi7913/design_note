@@ -1,5 +1,6 @@
 # design Note
 ## color
+https://www.uisdc.com/160-color-scheme
 ### 1. 高級
 視覺調性高端的色彩，通常具有明度低、飽和度低、顏色數量少等特點，所以很多高端的設計都會以**深色作為背景色**，因為深色更顯低調、更具神秘感，所以給人的感覺更高貴。然後以**亞金色、銀色、桔紅色、白色等作為輔助色。**
 ![](https://image.uisdc.com/wp-content/uploads/2022/08/uisdc-ps-20220812-1.jpg)
