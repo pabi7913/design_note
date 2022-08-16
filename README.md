@@ -84,7 +84,7 @@ https://www.uisdc.com/160-color-scheme
 
 ## tool
 ## Ai
-https://www.uisdc.com/5-ai-tips
+https://www.uisdc.com/5-ai-tips   
 https://www.uisdc.com/5-ai-tips-2
 ### 1. 標題文本快速轉段落文本
 段落文本和標題文本是文字排版中經常用到的 2 種形式，那你知道快速切換2種文本形式的方法嗎？其實非常簡單：直接選中原來的文本框，將鼠標懸浮到在文本框右側中間凸出的小端點上，出現帶「T」的小標記時快速雙擊鼠標左鍵，就可以直接將標題文本變成段落文本了，使用相同的方法也能將段落文本快速切換為標題文本。
