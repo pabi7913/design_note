@@ -1,5 +1,5 @@
 # design Note
-[color](#color) | [tool](#tool) |
+[color](#color) | [tool](#tool) | [ui](#ui) |
 ## color
 https://www.uisdc.com/160-color-scheme
 ### 1. 高級
@@ -125,3 +125,24 @@ https://www.uisdc.com/5-ai-tips-2
 我們進行文字排版時，會出現的一種情況是以引號、括號、書名號等符號開頭的文字組無法直接與其餘的行文字達到邊緣對齊，這時候就可以用使用**比例間距工具**，選中符號後調節比例至合適位置，就能輕鬆解決這個問題了。
 ![](https://image.uisdc.com/wp-content/uploads/2022/06/uisdc-hs-20220615-5.jpg)
 ![](https://image.uisdc.com/wp-content/uploads/2022/06/uisdc-hs-20220615-6.gif)
+
+***
+
+## ui
+https://medium.com/inside-design/10-microinteractions-that-will-inspire-your-next-project-8a6913ee42d
+### 1. Hamburgers in motion
+![](https://miro.medium.com/max/1400/0*oQfGeY__p5IE1Enc.gif)
+### 2. Follow the sign
+![](https://miro.medium.com/max/1400/0*bZ2aAWKYGW8nLQ1p.gif)
+### 3. Show us how you bounce
+![](https://miro.medium.com/max/1400/0*ryuLWRqgIUSlU9t1.gif)
+### 4. Send ’em up, bring ’em down
+![](https://miro.medium.com/max/1400/0*U0idHxknx_gFKWBs.gif)
+### 5. Draw it out
+![](https://miro.medium.com/max/1400/0*UQ1b4-V31zSyKNa5.gif)
+### 6. Space is the place
+![](https://miro.medium.com/max/1400/0*1Ah8o0uOPKkufbPa.gif)
+### 7. Welcome to my world
+![](https://miro.medium.com/max/1400/0*hlEYzhu_N5wuR-1J.gif)
+### 8. Oops, I 404ed again
+![](https://miro.medium.com/max/1200/0*EohVDHn-tQfPxT00.gif)
