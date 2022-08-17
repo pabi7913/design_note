@@ -134,14 +134,17 @@ https://medium.com/inside-design/10-microinteractions-that-will-inspire-your-nex
 ![](https://miro.medium.com/max/1400/0*oQfGeY__p5IE1Enc.gif)
 ### 2. Follow the sign
 ![](https://miro.medium.com/max/1400/0*bZ2aAWKYGW8nLQ1p.gif)
+https://miro.medium.com/max/1400/0*bZ2aAWKYGW8nLQ1p.gif
 ### 3. Show us how you bounce
 ![](https://miro.medium.com/max/1400/0*ryuLWRqgIUSlU9t1.gif)
+https://miro.medium.com/max/1400/0*ryuLWRqgIUSlU9t1.gif
 ### 4. Send ’em up, bring ’em down
 ![](https://miro.medium.com/max/1400/0*U0idHxknx_gFKWBs.gif)
 ### 5. Draw it out
 ![](https://miro.medium.com/max/1400/0*UQ1b4-V31zSyKNa5.gif)
 ### 6. Space is the place
 ![](https://miro.medium.com/max/1400/0*1Ah8o0uOPKkufbPa.gif)
+https://miro.medium.com/max/1400/0*1Ah8o0uOPKkufbPa.gif
 ### 7. Welcome to my world
 ![](https://miro.medium.com/max/1400/0*hlEYzhu_N5wuR-1J.gif)
 ### 8. Oops, I 404ed again
