@@ -149,3 +149,7 @@ https://miro.medium.com/max/1400/0*1Ah8o0uOPKkufbPa.gif
 ![](https://miro.medium.com/max/1400/0*hlEYzhu_N5wuR-1J.gif)
 ### 8. Oops, I 404ed again
 ![](https://miro.medium.com/max/1200/0*EohVDHn-tQfPxT00.gif)
+
+https://www.uisdc.com/12-ui-design-details
+![](https://image.uisdc.com/wp-content/uploads/2022/08/uisdc-ui-20220806-1.jpg)
+
