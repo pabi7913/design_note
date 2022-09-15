@@ -138,6 +138,14 @@ https://www.youtube.com/watch?v=weaPPCAZm0w
 window.onload = function(){
     init();
 }
+
+## Ae
+https://www.bilibili.com/video/BV1wt411Q7RQ/
+### 裁切尺寸
+### 1. composition視窗 下方按鈕:region of interest
+### 2. 功能列composition > crop comp to region of interest
+### 3. composition視窗 右鍵 composition setting可再更改尺寸
+
 ***
 
 ## ui
