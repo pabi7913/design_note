@@ -126,6 +126,18 @@ https://www.uisdc.com/5-ai-tips-2
 ![](https://image.uisdc.com/wp-content/uploads/2022/06/uisdc-hs-20220615-5.jpg)
 ![](https://image.uisdc.com/wp-content/uploads/2022/06/uisdc-hs-20220615-6.gif)
 
+## An
+https://www.youtube.com/watch?v=weaPPCAZm0w
+### an canvas preview in html5
+### 1. cmd + enter 預覽
+### 2. vscode開啟
+### 3. 新建網頁，div整個貼入網頁
+### 4. script 3支依序插入
+### 5. 第3支用連結的方式，連到新建的js
+### 6. 新建的js，var後 function init()之前，加上這一行即可預覽canvas動畫
+window.onload = function(){
+    init();
+}
 ***
 
 ## ui
