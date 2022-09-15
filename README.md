@@ -150,6 +150,17 @@ https://www.cg.com.tw/AfterEffects/Content/AfterEffects_06.php
 ### 1. composition圖層右鍵 > time > enable time remapping 打勾
 ### 2. composition圖層右鍵 > time > time stretch
 ### 3. stretch factor 預設100:200->慢1倍;50->快1倍，下行duration會換算最終時間
+
+### 製作html5動畫
+### 1. 製作完動畫
+### 2. 工具列window > extension > lottiefiles
+### 3. 按右邊箭頭
+### 4. 按upload鍵頭
+### 5. 選資料夾上傳 點選upload
+### 6. 打開網上lottie files 找到檔案
+### 7. 右側工具列handoff & embed 點選enable asset link
+### 8. 複製web代碼
+### 9. 貼入html
 ***
 
 ## ui
