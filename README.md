@@ -152,6 +152,7 @@ https://www.cg.com.tw/AfterEffects/Content/AfterEffects_06.php
 ### 3. stretch factor 預設100:200->慢1倍;50->快1倍，下行duration會換算最終時間
 
 ### 製作html5動畫
+https://www.youtube.com/watch?v=1re18JFseME
 ### 1. 製作完動畫
 ### 2. 工具列window > extension > lottiefiles
 ### 3. 按右邊箭頭
