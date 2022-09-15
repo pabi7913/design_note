@@ -145,7 +145,11 @@ https://www.bilibili.com/video/BV1wt411Q7RQ/
 ### 1. composition視窗 下方按鈕:region of interest
 ### 2. 功能列composition > crop comp to region of interest
 ### 3. composition視窗 右鍵 composition setting可再更改尺寸
-
+https://www.cg.com.tw/AfterEffects/Content/AfterEffects_06.php
+### 調整影片速度
+### 1. composition圖層右鍵 > time > enable time remapping 打勾
+### 2. composition圖層右鍵 > time > time stretch
+### 3. stretch factor 預設100:200->慢1倍;50->快1倍，下行duration會換算最終時間
 ***
 
 ## ui
